@@ -1,14 +1,14 @@
 let pasajes = [
-  { id: 1, destino: "BARCELONA", precio: 1249, categoria: "EUROPA", asientosDisponibles: 34, rutaImagen: "./image/BARCELONA.jpg" },
-  { id: 2, destino: "PARIS", precio: 1430, categoria: "EUROPA", asientosDisponibles: 24, rutaImagen: "./image/PARIS.jpg" },
-  { id: 3, destino: "LISBOA", precio: 1590, categoria: "EUROPA", asientosDisponibles: 18, rutaImagen: "./image/LISBOA.jpg" },
-  { id: 4, destino: "VENECIA", precio: 1730, categoria: "EUROPA", asientosDisponibles: 3, rutaImagen: "./image/VENECIA.jpg" },
-  { id: 5, destino: "LONDRES", precio: 1350, categoria: "EUROPA", asientosDisponibles: 29, rutaImagen: "./image/LONDRES.jpg" },
-  { id: 6, destino: "BANGKOK", precio: 2470, categoria: "ASIA", asientosDisponibles: 5, rutaImagen: "./image/BANGKOK.jpg" },
-  { id: 7, destino: "TOKIO", precio: 2380, categoria: "ASIA", asientosDisponibles: 15, rutaImagen: "./image/TOKIO.jpg" },
-  { id: 8, destino: "DUBAI", precio: 2000, categoria: "ASIA", asientosDisponibles: 7, rutaImagen: "./image/DUBAI.jpg" },
-  { id: 9, destino: "TORONTO", precio: 1036, categoria: "AMERICA", asientosDisponibles: 23, rutaImagen: "./image/TORONTO.jpg" },
-  { id: 10, destino: "CALIFORNIA", precio: 1363, categoria: "AMERICA", asientosDisponibles: 15, rutaImagen: "./image/CALIFORNIA.jpg" },
+  { id: 1, destino: "BARCELONA", precio: 1249, categoria: "EUROPA", asientosDisponibles: 34, rutaImagen: "/image/BARCELONA.jpg" },
+  { id: 2, destino: "PARIS", precio: 1430, categoria: "EUROPA", asientosDisponibles: 24, rutaImagen: "/image/PARIS.jpg" },
+  { id: 3, destino: "LISBOA", precio: 1590, categoria: "EUROPA", asientosDisponibles: 18, rutaImagen: "/image/LISBOA.jpg" },
+  { id: 4, destino: "VENECIA", precio: 1730, categoria: "EUROPA", asientosDisponibles: 3, rutaImagen: "/image/VENECIA.jpg" },
+  { id: 5, destino: "LONDRES", precio: 1350, categoria: "EUROPA", asientosDisponibles: 29, rutaImagen: "/image/LONDRES.jpg" },
+  { id: 6, destino: "BANGKOK", precio: 2470, categoria: "ASIA", asientosDisponibles: 5, rutaImagen: "/image/BANGKOK.jpg" },
+  { id: 7, destino: "TOKIO", precio: 2380, categoria: "ASIA", asientosDisponibles: 15, rutaImagen: "/image/TOKIO.jpg" },
+  { id: 8, destino: "DUBAI", precio: 2000, categoria: "ASIA", asientosDisponibles: 7, rutaImagen: "/image/DUBAI.jpg" },
+  { id: 9, destino: "TORONTO", precio: 1036, categoria: "AMERICA", asientosDisponibles: 23, rutaImagen: "/image/TORONTO.jpg" },
+  { id: 10, destino: "CALIFORNIA", precio: 1363, categoria: "AMERICA", asientosDisponibles: 15, rutaImagen: "/image/CALIFORNIA.jpg" },
 ]
 
 
